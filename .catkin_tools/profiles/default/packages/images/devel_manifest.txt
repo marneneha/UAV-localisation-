@@ -1,0 +1,5 @@
+UAV-Localization/images
+/home/neha/loc_ws/devel/.private/images/cmake.lock /home/neha/loc_ws/devel/./cmake.lock
+/home/neha/loc_ws/devel/.private/images/share/images/cmake/imagesConfig.cmake /home/neha/loc_ws/devel/share/images/cmake/imagesConfig.cmake
+/home/neha/loc_ws/devel/.private/images/share/images/cmake/imagesConfig-version.cmake /home/neha/loc_ws/devel/share/images/cmake/imagesConfig-version.cmake
+/home/neha/loc_ws/devel/.private/images/lib/pkgconfig/images.pc /home/neha/loc_ws/devel/lib/pkgconfig/images.pc

@@ -1,0 +1,8 @@
+prefix=/home/neha/loc_ws/install
+
+Name: images
+Description: Description of images
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -limages
+Requires: rospy std_msgs

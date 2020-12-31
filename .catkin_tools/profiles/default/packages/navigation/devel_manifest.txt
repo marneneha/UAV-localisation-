@@ -1,0 +1,6 @@
+UAV-Localization/navigation
+/home/neha/loc_ws/devel/.private/navigation/cmake.lock /home/neha/loc_ws/devel/./cmake.lock
+/home/neha/loc_ws/devel/.private/navigation/share/navigation/cmake/navigationConfig.cmake /home/neha/loc_ws/devel/share/navigation/cmake/navigationConfig.cmake
+/home/neha/loc_ws/devel/.private/navigation/share/navigation/cmake/navigationConfig-version.cmake /home/neha/loc_ws/devel/share/navigation/cmake/navigationConfig-version.cmake
+/home/neha/loc_ws/devel/.private/navigation/lib/navigation/square /home/neha/loc_ws/devel/lib/navigation/square
+/home/neha/loc_ws/devel/.private/navigation/lib/pkgconfig/navigation.pc /home/neha/loc_ws/devel/lib/pkgconfig/navigation.pc

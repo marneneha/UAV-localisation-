@@ -1,0 +1,2 @@
+images
+-DCATKIN_DEVEL_PREFIX=/home/neha/loc_ws/devel -DCMAKE_INSTALL_PREFIX=/home/neha/loc_ws/install -G Unix Makefiles
