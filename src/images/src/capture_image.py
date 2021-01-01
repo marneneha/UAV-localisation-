@@ -10,13 +10,12 @@ bridge = CvBridge()
 
 def image_callback(ros_image):
     print("i am getting in")
-    while(1):
-	    print("in while")
-	    global bridge
-	    cv_image = bridge.imgmsg_to_cv2(ros_image, "bgr8")
-	    cv2.imshow("Feed", cv_image)
-	    cv2.waitKey()
-	    print("end")
+    print("in while")
+    global bridge
+    cv_image = bridge.imgmsg_to_cv2(ros_image, "bgr8")
+    cv2.imshow("Feed", cv_image)
+    cv2.waitKey()
+    print("end")
 
 
   
