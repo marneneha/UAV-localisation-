@@ -23,11 +23,13 @@ def image_callback(ros_image):
 def main(args):
     rospy.init_node('image_converter', anonymous=True)
     try:
-	while(1):
-        	image1= rospy.Subscriber("/uav1/bluefox_optflow/image_raw",Image,image_callback) 
-		rospy.spin()
+        image1= rospy.Subscriber("/uav1/bluefox_optflow/image_raw",Image,image_callback) 
+	rospy.spin()
     except KeyboardInterrupt:
         print("Shutting Down")
     	cv2.destroyAllWindows()
 if __name__ == '__main__':
     main(sys.argv)
+
+
+
