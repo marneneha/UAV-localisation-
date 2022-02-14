@@ -1,8 +1,0 @@
-prefix=/home/neha/loc_ws/devel
-
-Name: iq_sim
-Description: Description of iq_sim
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
